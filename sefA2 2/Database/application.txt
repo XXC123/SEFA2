@@ -1,8 +1,0 @@
-COCS2018,aa,open
-COCS2038,aa,open
-COCS2018,aa,open
-COCS2018,aa,open
-COCS2038,aa,open
-COCS2018,aa,open
-COCS2028,aa,open
-COCS2018,aa,open
